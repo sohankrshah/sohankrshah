@@ -34,18 +34,6 @@ I'm on a journey to turn raw information into actionable insights — one datase
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
-## 📊 GitHub Stats & Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohankrshah&theme=radical" />
-</p>
-
----
-## 🔄 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohankrshah&theme=dracula" />
-</p>
-
----
 
 ## 📫 Connect With Me
 <p>
